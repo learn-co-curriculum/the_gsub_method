@@ -1,8 +1,4 @@
----
-tags: ruby, gsub, command line, video
-language: ruby
-format: video
----
+
 
 # The gsub Method
 [MP4](http://flatiron-videos.s3.amazonaws.com/Ruby%20Tips/The%20gsub%20Method.mp4)
