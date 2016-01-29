@@ -8,4 +8,4 @@
     Your browser does not support the video tag. We recommend using Chrome
 </video>
 
-<a href='https://learn.co/lessons/the_gsub_method' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/the_gsub_method' title='The gsub Method'>The gsub Method</a> on Learn.co and start learning to code for free.</p>
